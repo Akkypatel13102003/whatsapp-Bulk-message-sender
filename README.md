@@ -1,0 +1,1 @@
+This is a whatapp bulk message sender developed with the help of python programming, if you have a specific msg and you want to send it to more people than whatsapp allows you to forward to in that case scenario it is helpful
